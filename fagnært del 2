@@ -15,4 +15,4 @@ def show(ball_x, ball_y, bar):
 
 def trajectory(ball_x, ball_y, bar):
 
-    return
+    
